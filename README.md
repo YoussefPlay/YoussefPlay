@@ -1,4 +1,4 @@
-# Youssef Lriani
+# Youssef Lariani
 
 <!-- Welcome GIF -->
 <div align="center">
