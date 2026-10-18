@@ -18,12 +18,7 @@ I enjoy coding small projects and exploring new things in programming.
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YoussefPlay&show_icons=true&theme=radical" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefPlay&layout=compact&theme=radical" alt="Top Languages" width="49%"/>
-</div>
 
 ---
 
